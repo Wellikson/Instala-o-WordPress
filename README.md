@@ -40,7 +40,7 @@
 
 >http://ip_servidor
 
-![imagem servidor web](https://github.com/Wellikson/Instala-o-WordPress/blob/main/Screen%20Capture_select-area_20201021194316.png)
+![imagem servidor web](https://github.com/Wellikson/Instala-o-WordPress/blob/main/Screen%20Capture_select-area_20201022094040.png)
 
 ## Passo 7
 
