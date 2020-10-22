@@ -73,6 +73,9 @@ http://ip_servidor/phpmyadmin
 >Abrir WordPress no servidor nginx
 http://ip_servidor:8080
 
-## Passo 10
+>Completar configuração WordPress pela web
 
-## Passo 11
+1. Selecionar idioma.
+2. Fornecer dados do banco criando anteriormente como nome do banco , nome do usuario e senha.
+3. configurar acesso ao WordPress , definir usuario e senha.
+
