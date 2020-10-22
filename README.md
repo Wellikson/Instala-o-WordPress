@@ -56,12 +56,15 @@ server {
 ## Passo 7
 
 >checar e reiniciar servidor nginx
+
 $ nginx -t
+
 $ systemctl restart nginx
 
 ## Passo 8
 
 >abrir phpmyadmin
+
 http://ip_servidor/phpmyadmin
 
 >criar banco de dados
@@ -71,6 +74,7 @@ http://ip_servidor/phpmyadmin
 ## Passo 9
 
 >Abrir WordPress no servidor nginx
+
 http://ip_servidor:8080
 
 >Completar configuração WordPress pela web
