@@ -72,7 +72,7 @@ server {
 
 >abrir phpmyadmin
 
-http://ip_servidor/phpmyadmin
+>http://ip_servidor/phpmyadmin
 
 >criar banco de dados
 
@@ -86,7 +86,7 @@ http://ip_servidor/phpmyadmin
 
 >Completar configuração WordPress pela web
 
-1. Selecionar idioma.
-2. Fornecer dados do banco criando anteriormente como nome do banco , nome do usuario e senha.
-3. configurar acesso ao WordPress , definir usuario e senha.
+>1. Selecionar idioma.
+>2. Fornecer dados do banco criando anteriormente como nome do banco , nome do usuario e senha.
+>3. configurar acesso ao WordPress , definir usuario e senha.
 
