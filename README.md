@@ -30,7 +30,7 @@ $ chown -R www-data: /var/www/wordpress/
 >Configurar o nginx para o WordPress
 >Criar arquivo de configuração em /etc/nginx/sites-available/
 $ nano /etc/nginx/sites-available/wordpress
-ˋˋˋ
+~~~
 server {
         listen 8080;                                               
         listen [::]:8080;
@@ -51,7 +51,7 @@ server {
                 deny all;
         }
 }
-ˋˋˋ
+~~~
 
 ## Passo 7
 
@@ -65,6 +65,7 @@ $ systemctl restart nginx
 http://ip_servidor/phpmyadmin
 
 >criar banco de dados
+
 ![imagem criando banco de dandos](https://github.com/Wellikson/Instala-o-WordPress/blob/main/Screen%20Capture_select-area_20201021194316.png)
 
 ## Passo 9
