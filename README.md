@@ -65,7 +65,7 @@ $ systemctl restart nginx
 http://ip_servidor/phpmyadmin
 
 >criar banco de dados
-![imagem criando banco de dandos](https://drive.google.com/file/d/115ypxZOju7IsCpu6ZxMa0pHbsO3Ku61i/view?)
+![imagem criando banco de dandos](https://github.com/Wellikson/Instala-o-WordPress/blob/main/Screen%20Capture_select-area_20201021194316.png)
 
 ## Passo 9
 
